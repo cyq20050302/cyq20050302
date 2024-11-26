@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+home+paget;size=30px)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+home+paget)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CYQ20050302)
 
