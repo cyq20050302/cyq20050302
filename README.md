@@ -32,7 +32,7 @@
 <a href="https://space.bilibili.com/498105668"><img src="https://img.shields.io/badge/哔哩哔哩-小康2022-pink?logo=bilibili" /></a>
 <img src="https://img.shields.io/badge/QQ-2860529425-green?logo=tencentqq" />
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
-<img src="https://komarev.com/ghpvc/?username=Xiaokang2022&abbreviated=true&color=yellow" />
+<img src="https://komarev.com/ghpvc/?username=CYQ20050302&abbreviated=true&color=yellow" />
 </p>
  
 <!-- https://github.com/kyechan99/capsule-render -->
