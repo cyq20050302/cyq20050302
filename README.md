@@ -23,6 +23,7 @@
 <br/>
 <!-- https://github.com/tandpfun/skill-icons -->
 <img align="center" src="https://skillicons.dev/icons?i=c,cpp,cs,java,html,css,js,ts,md,vue&theme=light" />
+[![我的技能](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 </p>
  
 <!-- https://github.com/badges/shields -->
