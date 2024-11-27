@@ -22,8 +22,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CYQ20050302&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
 <!-- https://github.com/tandpfun/skill-icons -->
-<img align="center" src="https://skillicons.dev/icons?i=c,cpp,cs,java,html,css,js,ts,md,vue&theme=light" />
-[![我的技能](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<img align="center" src="https://skillicons.dev/icons?i=c,java,html,css,js,ts,md,vue&theme=light" />
 </p>
  
 <!-- https://github.com/badges/shields -->
