@@ -22,7 +22,6 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaokang2022&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 
-原文链接：https://blog.csdn.net/weixin_62651706/article/details/137957144
 <!-- https://github.com/tandpfun/skill-icons -->
 <img align="center" src="https://skillicons.dev/icons?i=c,java,html,css,js,ts,md,vue&theme=light" />
 </p>
