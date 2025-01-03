@@ -25,6 +25,8 @@
 <!-- https://github.com/tandpfun/skill-icons -->
 <img align="center" src="https://skillicons.dev/icons?i=c,java,html,css,js,ts,md,vue&theme=light" />
 </p>
+
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=CYQ20050302&theme=github-compact&hide_border=true&area=true" />
  
 <!-- https://github.com/badges/shields -->
 <p align="center">
