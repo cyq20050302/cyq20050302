@@ -23,10 +23,39 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CYQ20050302&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
 <!-- https://github.com/tandpfun/skill-icons -->
-<img align="center" src="https://skillicons.dev/icons?i=c,java,html,css,js,ts,md,vue,react,git,mysql,nodejs,pinia,postman&theme=light" />
+<!-- <img align="center" src="https://skillicons.dev/icons?i=c,java,html,css,js,ts,md,vue,react,git,mysql,nodejs,pinia,postman&theme=light" />
 </p>
 
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=CYQ20050302&theme=github-compact&hide_border=true&area=true" />
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=CYQ20050302&theme=github-compact&hide_border=true&area=true" /> -->
+## 🧠 编程语言（Languages）
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,js,ts,md&theme=light" />
+</p>
+
+---
+
+## 💻 前端开发（Frontend）
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,vue,react,pinia&theme=light" />
+</p>
+
+---
+
+## 🧩 后端与数据库（Backend & Database）
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql&theme=light" />
+</p>
+
+---
+
+## 🔧 工具与协作（Tools & Collaboration）
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,postman&theme=light" />
+</p>
  
 <!-- https://github.com/badges/shields -->
 <p align="center">
