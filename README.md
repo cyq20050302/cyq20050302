@@ -7,6 +7,32 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+home+page!;Welcome+to+my+home+page!" />
 </p>
 
+<!-- https://github.com/tandpfun/skill-icons -->
+<!-- <img align="center" src="https://skillicons.dev/icons?i=c,java,html,css,js,ts,md,vue,react,git,mysql,nodejs,pinia,postman&theme=light" / >-->
+</p>
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=CYQ20050302&theme=github-compact&hide_border=true&area=true" /> 
+## 💻 前端 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,pinia&theme=light" />
+</p>
+---
+## 🔙 后端 Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,c,java&theme=light" />
+</p>
+---
+## 🗄️ 数据库 Database
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=light" />
+</p>
+---
+## 🛠️ 工具 Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,postman,md,npm&theme=light" />
+</p>-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+---
  
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
@@ -16,42 +42,7 @@
 <br/>
 <!
   
-  <!-- https://github.com/tandpfun/skill-icons -->
-<!-- <img align="center" src="https://skillicons.dev/icons?i=c,java,html,css,js,ts,md,vue,react,git,mysql,nodejs,pinia,postman&theme=light" / >-->
-</p>
-
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=CYQ20050302&theme=github-compact&hide_border=true&area=true" /> 
-
-## 💻 前端 Frontend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,pinia&theme=light" />
-</p>
-
----
-
-## 🔙 后端 Backend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,c,java&theme=light" />
-</p>
-
----
-
-## 🗄️ 数据库 Database
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=light" />
-</p>
-
----
-
-## 🛠️ 工具 Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,postman,md,npm&theme=light" />
-</p>-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-
+  
 
 <br/>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
