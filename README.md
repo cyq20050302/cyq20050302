@@ -47,7 +47,7 @@
 ## 🗄️ 数据库 Database
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql&theme=light" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=light" />
 </p>
 
 ---
@@ -55,7 +55,7 @@
 ## 🛠️ 工具 Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,postman,md&theme=light" />
+  <img src="https://skillicons.dev/icons?i=git,postman,md,npm&theme=light" />
 </p>
 
  
