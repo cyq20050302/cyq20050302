@@ -11,6 +11,7 @@
 <!-- <img align="center" src="https://skillicons.dev/icons?i=c,java,html,css,js,ts,md,vue,react,git,mysql,nodejs,pinia,postman&theme=light" / >-->
 </p>
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=CYQ20050302&theme=github-compact&hide_border=true&area=true" /> 
+
 ## 💻 前端 Frontend
 
 <p align="center">
@@ -41,6 +42,7 @@
   <img src="https://skillicons.dev/icons?i=git,postman,md&theme=light" />
 </p>
 
+---
  
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
