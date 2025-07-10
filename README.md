@@ -12,27 +12,35 @@
 </p>
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=CYQ20050302&theme=github-compact&hide_border=true&area=true" /> 
 ## 💻 前端 Frontend
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,pinia&theme=light" />
 </p>
+
 ---
+
 ## 🔙 后端 Backend
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,c,java&theme=light" />
 </p>
+
 ---
+
 ## 🗄️ 数据库 Database
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=light" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=light" />
 </p>
+
 ---
+
 ## 🛠️ 工具 Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,postman,md,npm&theme=light" />
-</p>-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
----
+  <img src="https://skillicons.dev/icons?i=git,postman,md&theme=light" />
+</p>
+
  
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
