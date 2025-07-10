@@ -7,8 +7,16 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+home+page!;Welcome+to+my+home+page!" />
 </p>
 
-
-<!-- https://github.com/tandpfun/skill-icons -->
+ 
+<p align="center">
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=CYQ20050302&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
+<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+<img align="center" width="400" src="https://streak-stats.demolab.com?user=CYQ20050302&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
+<br/>
+<!
+  
+  <!-- https://github.com/tandpfun/skill-icons -->
 <!-- <img align="center" src="https://skillicons.dev/icons?i=c,java,html,css,js,ts,md,vue,react,git,mysql,nodejs,pinia,postman&theme=light" / >-->
 </p>
 
@@ -42,15 +50,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,postman,md,npm&theme=light" />
-</p>
- 
-<p align="center">
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=CYQ20050302&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
-<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-<img align="center" width="400" src="https://streak-stats.demolab.com?user=CYQ20050302&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
-<br/>
-<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+</p>-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 
 
 <br/>
