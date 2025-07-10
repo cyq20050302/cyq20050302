@@ -28,34 +28,34 @@
 
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=CYQ20050302&theme=github-compact&hide_border=true&area=true" /> 
 
-## 🧠 编程语言（Languages）
+## 💻 前端 Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,js,ts,md&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,pinia&theme=light" />
 </p>
 
 ---
 
-## 💻 前端开发（Frontend）
+## 🔙 后端 Backend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,vue,react,pinia&theme=light" />
+  <img src="https://skillicons.dev/icons?i=nodejs,c,java&theme=light" />
 </p>
 
 ---
 
-## 🧩 后端与数据库（Backend & Database）
+## 🗄️ 数据库 Database
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,mysql&theme=light" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=light" />
 </p>
 
 ---
 
-## 🔧 工具与协作（Tools & Collaboration）
+## 🛠️ 工具 Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,postman&theme=light" />
+  <img src="https://skillicons.dev/icons?i=git,postman,md&theme=light" />
 </p>
 
  
