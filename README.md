@@ -31,7 +31,7 @@
 ## 🗄️ 数据库 Database
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql&theme=light" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=light" />
 </p>
 
 ---
