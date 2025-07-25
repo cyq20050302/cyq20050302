@@ -12,17 +12,32 @@
 </p>
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=CYQ20050302&theme=github-compact&hide_border=true&area=true" /> 
 
-💻 Frontend | 前端开发
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,pinia&theme=dark" /> </p>
-🔙 Backend | 后端开发
-<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,java,c&theme=dark" /> </p>
-🗄️ Database | 数据库
-<p align="center"> <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" /> </p>
-⚙️ DevOps & Build Tools | 运维与构建工具
-<p align="center"> <img src="https://skillicons.dev/icons?i=nginx,vite,npm&theme=dark" /> </p>
-🛠️ Tools & Productivity | 工具与效率
-<p align="center"> <img src="https://skillicons.dev/icons?i=git,postman,notion,md&theme=dark" /> </p>
- 
+## 💻 Frontend | 前端开发
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,pinia&theme=dark" />
+</p>
+---
+## 🔙 Backend | 后端开发
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,java,c&theme=dark" />
+</p>
+---
+## 🗄️ Database | 数据库
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+</p>
+---
+## ⚙️ DevOps & Build Tools | 运维与构建工具
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nginx,vite,npm&theme=dark" />
+</p>
+---
+## 🛠️ Tools & Productivity | 工具与效率
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,postman,notion,md&theme=dark" />
+</p>
+---
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=CYQ20050302&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
