@@ -12,31 +12,6 @@
 </p>
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=CYQ20050302&theme=github-compact&hide_border=true&area=true" /> 
 
-## 💻 Frontend | 前端开发
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,electron,pinia&theme=dark" />
-</p>
-
-## 🔙 Backend | 后端开发
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,c&theme=dark" />
-</p>
-
-## 🗄️ Database | 数据库
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
-</p>
-
-## ⚙️ DevOps & Build Tools | 运维与构建工具
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,nginx,vite,npm&theme=dark" />
-</p>
-
-## 🛠️ Tools & Productivity | 工具与效率
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,postman,notion,md&theme=dark" />
-</p>
 
 
 <p align="center">
