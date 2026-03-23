@@ -7,9 +7,17 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Recreational+Full+my+Stack+Developer!;Third-yea+to+CS+undergraduate!" /></p>
 
-👋 Hi, I'm sannbai
+# 👋 Hi, I'm sannbai
 <!-- 个性化签名，比如「全栈开发者 | 热爱前端/后端」 -->
 💻 Recreational Full Stack Developer |  Third-year+CS+undergraduate 
+
+## 📌 关于我
+- 🔭 目前专注于：[你的技术方向，如「Vue3 + SpringBoot 全栈开发」]
+- 🌱 学习中：[正在学的技术，如「React 生态、Java Stream 编程」]
+- 💬 擅长：[技术领域，如「前端工程化、后端接口设计」]
+- 📫 联系我：[邮箱/博客/公众号，如 `xxx@xxx.com` | [个人博客](https://sanbaiblog.cn/)]
+- ⚡ 趣味：[个性化标签，如「Steam 游戏爱好者、摄影、徒步」]
+
 
 <!-- https://github.com/tandpfun/skill-icons -->
 <!-- <img align="center" src="https://skillicons.dev/icons?i=c,java,html,css,js,ts,md,vue,react,git,mysql,nodejs,pinia,postman&theme=light" / >-->
