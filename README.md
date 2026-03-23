@@ -8,14 +8,16 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Recreational+Full+my+Stack+Developer!;Third-yea+to+CS+undergraduate!" /></p>
 
 # 👋 Hi, I'm sannbai
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Frontend+Focused;Building+Minimal+Apps&center=true&size=18">
+</p>
 <!-- 个性化签名，比如「全栈开发者 | 热爱前端/后端」 -->
 💻 Recreational Full Stack Developer |  🎓Third-year+CS+undergraduate 
 
 ## 📌 About Me
 - 🔭 目前专注于：[你的技术方向，如「Vue3 + SpringBoot 全栈开发」]
-- 🌱 学习中：[「Web3、Agent开发」]
+- 🌱 Currently learning: **Web3 · Blockchain · AI Agents** 
 - 🧠 Focus: Engineering quality & product experience
-- 📫 联系我：[cyq050302cyq@gmail.com | 
 - ⚡ 趣味：🏸 Love playing badminton
            🎮 Occasionally gaming (Naraka: Bladepoint 😏)
            📸 Like recording life moments
