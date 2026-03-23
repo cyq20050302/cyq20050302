@@ -16,13 +16,15 @@
 - 🌱 学习中：[「Web3、Agent开发」]
 - 🧠 Focus: Engineering quality & product experience
 - 📫 联系我：[cyq050302cyq@gmail.com | 
-- 🖥️ MyBlog [[个人博客-MyBlog](https://sanbaiblog.cn/)]
 - ⚡ 趣味：🏸 Love playing badminton
            🎮 Occasionally gaming (Naraka: Bladepoint 😏)
            📸 Like recording life moments
 ### 🌐 Contact
 - 📫 Email: cyq050302cyq@gmail.com
 - 🖥️ Blog: https://sanbaiblog.cn/
+ <a href="https://sanbaiblog.cn/">
+    <img src="https://img.shields.io/badge/Blog-sanbaiblog.cn-111827?style=flat&logo=vercel">
+  </a>
 
 
 
