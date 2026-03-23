@@ -1,13 +1,13 @@
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20SanBai&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
-  # 👋 Hi, I'm sannbai
+👋 Hi, I'm sannbai
 <!-- 个性化签名，比如「全栈开发者 | 热爱前端/后端」 -->
-💻 Recreational Full Stack Developer |  Third-year CS undergraduate 
+💻 Recreational Full Stack Developer |  Third-year+CS+undergraduate 
 </p>
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+home+page!;Welcome+to+my+home+page!" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Third-year+CS+undergraduate !;Third-year+CS+undergraduate " />
 </p>
 
 <!-- https://github.com/tandpfun/skill-icons -->
