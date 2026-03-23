@@ -9,15 +9,18 @@
 
 # 👋 Hi, I'm sannbai
 <!-- 个性化签名，比如「全栈开发者 | 热爱前端/后端」 -->
-💻 Recreational Full Stack Developer |  Third-year+CS+undergraduate 
+💻 Recreational Full Stack Developer |  🎓Third-year+CS+undergraduate 
 
-## 📌 关于我
+## 📌 About Me
 - 🔭 目前专注于：[你的技术方向，如「Vue3 + SpringBoot 全栈开发」]
-- 🌱 学习中：[正在学的技术，如「React 生态、Java Stream 编程」]
-- 💬 擅长：[技术领域，如「前端工程化、后端接口设计」]
+- 🌱 学习中：[「Web3、Agent开发」]
+- 🧠 Focus: Engineering quality & product experience
 - 📫 联系我：[cyq050302cyq@gmail.com | 
-- 🖥️ MyBlog: [个人博客-MyBlog](https://sanbaiblog.cn/)]
-- ⚡ 趣味：[个性化标签，如「Steam 游戏爱好者、摄影、徒步」]
+- 🖥️ MyBlog [[个人博客-MyBlog](https://sanbaiblog.cn/)]
+- ⚡ 趣味：🏸 Love playing badminton
+           🎮 Occasionally gaming (Naraka: Bladepoint 😏)
+           📸 Like recording life moments
+
 
 
 <!-- https://github.com/tandpfun/skill-icons -->
