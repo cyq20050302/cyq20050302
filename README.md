@@ -21,9 +21,15 @@
            📸 Like recording life moments
 ### 🌐 Contact
 - 📫 Email: cyq050302cyq@gmail.com
-- 🖥️ Blog: https://sanbaiblog.cn/  <a href="https://sanbaiblog.cn/">
+- 🖥️ Blog: https://sanbaiblog.cn/
+<p align="center">
+  <a href="mailto:cyq050302cyq@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-black?style=flat&logo=gmail">
+  </a>
+  <a href="https://sanbaiblog.cn/">
     <img src="https://img.shields.io/badge/Blog-sanbaiblog.cn-111827?style=flat&logo=vercel">
   </a>
+</p>
 
 
 
