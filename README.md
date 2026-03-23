@@ -7,8 +7,7 @@
 </p>
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Third-year+CS+undergraduate !;Third-year+CS+undergraduate " />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+home+page!;Welcome+to+my+home+page!" /></p>
 
 <!-- https://github.com/tandpfun/skill-icons -->
 <!-- <img align="center" src="https://skillicons.dev/icons?i=c,java,html,css,js,ts,md,vue,react,git,mysql,nodejs,pinia,postman&theme=light" / >-->
