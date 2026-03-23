@@ -13,25 +13,32 @@
 <!-- 个性化签名 -->
 💻 Recreational Full Stack Developer |  🎓Third-year+CS+undergraduate 
 
+---
 ## 📌 About Me
-- 🔭 目前专注于：[你的技术方向，如「Vue3 + SpringBoot 全栈开发」]
+- 🔭 Currently focused on: Frontend Engineering · App Development (Android / ios./uniapp)
 - 🌱 Currently learning: **Web3 · Blockchain · AI Agents** 
 - 🧠 Focus: Engineering quality & product experience
-- ⚡ 趣味：🏸 Love playing badminton
-           🎮 Occasionally gaming (Naraka: Bladepoint 😏)
-           📸 Like recording life moments
-### 🌐 Contact
+---
+## 🌐 Contact
 - 📫 Email: cyq050302cyq@gmail.com
 - 🖥️ Blog: https://sanbaiblog.cn/
 - <p align="center">
-  <a href="mailto:cyq050302cyq@gmail.com">
+- <a href="mailto:cyq050302cyq@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-black?style=flat&logo=gmail">
   </a>
  - <a href="https://sanbaiblog.cn/">
     <img src="https://img.shields.io/badge/Blog-sanbaiblog.cn-111827?style=flat&logo=vercel">
   </a>
 </p>
+---
 
+## ⚡ Fun
+
+- 🏸 Love playing badminton  
+- 🎮 Occasionally gaming (Naraka: Bladepoint 😏)  
+- 📸 Enjoy recording life moments  
+
+---
 
 
 
