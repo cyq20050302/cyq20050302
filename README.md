@@ -15,7 +15,8 @@
 - 🔭 目前专注于：[你的技术方向，如「Vue3 + SpringBoot 全栈开发」]
 - 🌱 学习中：[正在学的技术，如「React 生态、Java Stream 编程」]
 - 💬 擅长：[技术领域，如「前端工程化、后端接口设计」]
-- 📫 联系我：[邮箱/博客/公众号，如 `xxx@xxx.com` | [个人博客](https://sanbaiblog.cn/)]
+- 📫 联系我：[cyq050302cyq@gmail.com | 
+- 🖥️ MyBlog: [个人博客-MyBlog](https://sanbaiblog.cn/)]
 - ⚡ 趣味：[个性化标签，如「Steam 游戏爱好者、摄影、徒步」]
 
 
