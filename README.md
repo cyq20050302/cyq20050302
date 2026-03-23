@@ -5,7 +5,7 @@
 </p>
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Recreational+Full+my+Stack+Developer!;Third-yea+to+CS+undergraduate!" /></p>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Recreational+Full+my+Stack+Developer!;Third-yea+to+CS+undergraduate!" /></p>
 
 # 👋 Hi, I'm sannbai
 <p align="center">
