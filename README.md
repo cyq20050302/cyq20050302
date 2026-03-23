@@ -20,6 +20,10 @@
 - ⚡ 趣味：🏸 Love playing badminton
            🎮 Occasionally gaming (Naraka: Bladepoint 😏)
            📸 Like recording life moments
+### 🌐 Contact
+-📫 Email: cyq050302cyq@gmail.com
+-🖥️ Blog: https://sanbaiblog.cn/
+
 
 
 
