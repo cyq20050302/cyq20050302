@@ -13,12 +13,12 @@
 <!-- 个性化签名 -->
 💻 Recreational Full Stack Developer |  🎓Third-year+CS+undergraduate 
 
----
+
 ## 📌 About Me
 - 🔭 Currently focused on: Frontend Engineering · App Development (Android / ios./uniapp)
 - 🌱 Currently learning: **Web3 · Blockchain · AI Agents** 
 - 🧠 Focus: Engineering quality & product experience
----
+
 ## 🌐 Contact
 - 📫 Email: cyq050302cyq@gmail.com
 - 🖥️ Blog: https://sanbaiblog.cn/
@@ -36,7 +36,7 @@
 - 🏸 Love playing badminton  
 - 🎮 Occasionally gaming (Naraka: Bladepoint 😏)  
 - 📸 Enjoy recording life moments  
----
+
 
 ## 🔗Links
 <p align="center">
