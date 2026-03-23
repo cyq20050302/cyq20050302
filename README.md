@@ -5,7 +5,7 @@
 </p>
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Recreational+Full+my+Stack+Developer!;Welcome+to+my+home+page!" /></p>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Recreational+Full+my+Stack+Developer!;Third-yea+to+CS+undergraduate!" /></p>
 
 👋 Hi, I'm sannbai
 <!-- 个性化签名，比如「全栈开发者 | 热爱前端/后端」 -->
